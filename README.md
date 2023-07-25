@@ -37,3 +37,14 @@ Two weeks age I was hired as a new data engineer at Pewlett Hackard (a fictional
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name):
 
 ![](https://github.com/Houdini24/sql-challenge/blob/main/EmployeeSQL/8.png)
+
+
+### Acknowledgements
+I used the following resources to help complete this project:
+
+* AskBCS Learning Assistants
+* GitHub
+* UCB Coding Bootcamp GitLab
+* ChatGPT
+* Bootcamp Tutor David Chao
+* W3 Schools
